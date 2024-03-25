@@ -16,7 +16,7 @@ Our project was conducted using both Mac and Windows platforms. For our analysis
 3. Open VS Code and open the file you downloaded or create a new file and paste the contents
 4. Run the file from beginning to end! 
 
-### 4) Referenced 
+### 4) References
 
 Convert .DAT Files to Either .DTA, .SHP, .BDF, or .CSV.” Stack Overflow, 1 May 1958, stackoverflow.com/questions/11483920/convert-dat-files-to-either-dta-shp-bdf-or-csv. 
 
